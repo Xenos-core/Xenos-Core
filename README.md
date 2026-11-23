@@ -75,15 +75,13 @@ A LuckPerms rank manager.
 
 </details>
 
-## ⚙ Folia Ports & Contributions
+## ⚙ More Projects
 
-| Project | What it is |
-|---|---|
-| [**Folia-AuraSkills-Update**](https://github.com/Xenos-core/Folia-AuraSkills-Update) | RPG skills plugin, maintained with Folia support |
-| [**Folia-lagfixer**](https://github.com/Xenos-core/Folia-lagfixer) | Server performance optimizer |
-| [**SvcAdminSpyFolia**](https://github.com/Xenos-core/SvcAdminSpyFolia) | Simple Voice Chat moderation add-on |
-| [**lastwordsFolia**](https://github.com/Xenos-core/lastwordsFolia) | Folia-compatible fork |
-| [**LimboAPI**](https://github.com/Xenos-core/LimboAPI) | Virtual-server API for Velocity-CTD proxies |
+| Project | What it does | Platform |
+|---|---|---|
+| [**LifeStealCore**](https://github.com/Xenos-core/LifeStealCore) | Lifesteal hearts on kills, anti-farming safeguards, custom elimination rules, PlaceholderAPI support | Paper · Folia |
+| [**EconomyLogger**](https://github.com/Xenos-core/EconomyLogger) | Logs every Vault and EssentialsX transaction: who paid whom, which plugin moved the money, and the items involved | Paper · Folia |
+| [**SvcAdminSpyFolia**](https://github.com/Xenos-core/SvcAdminSpyFolia) | Simple Voice Chat add-on for staff: admin listen and broadcast | Paper · Folia |
 
 ## ☾ Currently
 
